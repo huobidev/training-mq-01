@@ -90,7 +90,7 @@ Linux/Mac上使用：
 
 然后，可以把代码导入到IDE里，比如IntelliJ IDEA。
 
-![image-20190402194645203](./images/image-20190402194645203.png)
+## ![image-20190402194645203](./images/image-20190402194645203.png)
 
 
 
@@ -138,6 +138,3 @@ IDE中运行Producer类。然后在网页控制台上点击Queues菜单，可以
 5. 此时Consumer的输出窗口，有几条消息输出信息，topic几条，queue几条
 6. 请把上面的三个数字，写在答题纸上，例如一共两条消息，topic一条，queue一条，那么就写：2  1  1 
 
-
-
-![image-20190402202802262](./images/image-20190402202802262.png)

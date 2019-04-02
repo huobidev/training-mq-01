@@ -43,36 +43,7 @@ public class Consumer {
             }
         });
 
-        // the second
-
-        Topic topic2 = session.createTopic(TopicName);
-        MessageConsumer topicConsumer2 =session.createConsumer(topic2);
-        topicConsumer2.setMessageListener(new MessageListener() {
-            public void onMessage(Message message) {
-                TextMessage textMessage = (TextMessage) message;
-                try {
-                    System.out.println("receive a topic message: " + textMessage.getText());
-                } catch (JMSException e) {
-                    e.printStackTrace();
-                }
-            }
-        });
-
-        Queue queue2 = session.createQueue(QueueName);
-        MessageConsumer queueConsumer2 =session.createConsumer(queue2);
-        queueConsumer2.setMessageListener(new MessageListener() {
-            public void onMessage(Message message) {
-                TextMessage textMessage = (TextMessage) message;
-                try {
-                    System.out.println("receive a queue message: " + textMessage.getText());
-                } catch (JMSException e) {
-                    e.printStackTrace();
-                }
-            }
-        });
-
-        // end of second
-
+        
         System.in.read(); // hold on thread
 
         topicConsumer.close();

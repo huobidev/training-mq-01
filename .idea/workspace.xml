@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="038a6ab7-6ef1-43a6-955e-e8dcc05e50c8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/kimmking/github/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/kimmking/github/Consumer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,17 +65,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/io/kimmking/github/Consumer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="46" selection-start-line="46" selection-end-line="46" />
+            <state relative-caret-position="270">
+              <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
               <folding>
                 <element signature="e#755#1137#0" expanded="true" />
                 <element signature="e#1136#1137#0" expanded="true" />
                 <element signature="e#1306#1688#0" expanded="true" />
                 <element signature="e#1687#1688#0" expanded="true" />
-                <element signature="e#1828#2210#0" expanded="true" />
-                <element signature="e#2209#2210#0" expanded="true" />
-                <element signature="e#2386#2768#0" expanded="true" />
-                <element signature="e#2767#2768#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -174,7 +171,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554208079256" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554208300307" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -281,12 +278,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554203868885</updated>
-      <workItem from="1554203871708" duration="3030000" />
+      <workItem from="1554203871708" duration="3166000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3030000" />
+    <option name="totallyTimeSpent" value="3166000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="808" extended-state="6" />
@@ -360,17 +357,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/kimmking/github/Consumer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="270">
+          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
           <folding>
             <element signature="e#755#1137#0" expanded="true" />
             <element signature="e#1136#1137#0" expanded="true" />
             <element signature="e#1306#1688#0" expanded="true" />
             <element signature="e#1687#1688#0" expanded="true" />
-            <element signature="e#1828#2210#0" expanded="true" />
-            <element signature="e#2209#2210#0" expanded="true" />
-            <element signature="e#2386#2768#0" expanded="true" />
-            <element signature="e#2767#2768#0" expanded="true" />
           </folding>
         </state>
       </provider>
