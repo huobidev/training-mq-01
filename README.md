@@ -88,7 +88,7 @@ Linux/Mac上使用：
 
 然后，可以把代码导入到IDE里，比如IntelliJ IDEA。
 
-## ![image-20190402194645203](./images/image-20190402194645203.png)
+![image-20190402194645203](./images/image-20190402194645203.png)
 
 
 
