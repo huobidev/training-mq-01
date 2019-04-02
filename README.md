@@ -78,15 +78,13 @@ Linux/Mac上使用：
 
 ## 3. 下载demo代码
 
-3.1 下载代码
+### 3.1 下载代码
 
 在命令行或IDE工具里：
 
 > git clone git@github.com:huobidev/training-mq-01.git
->
-> cd training-mq-01
 
-3.2 导入代码
+### 3.2 导入代码
 
 然后，可以把代码导入到IDE里，比如IntelliJ IDEA。
 
@@ -126,7 +124,7 @@ IDE中运行Producer类。然后在网页控制台上点击Queues菜单，可以
 
 这说明我们同时接收到了Topic和Queue的消息。
 
-### 6. 作业题
+## 6. 作业题
 
 现在请同学们：
 
