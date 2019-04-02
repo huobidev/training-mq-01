@@ -43,7 +43,7 @@ public class Consumer {
             }
         });
 
-        
+
         System.in.read(); // hold on thread
 
         topicConsumer.close();
