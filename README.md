@@ -8,19 +8,7 @@
 
 系统需要预先安装JDK8+，Maven3+，git工具(git命令行或tortoiseGit，IDE自带工具等)，并已经配置好环境变量。
 
-### 1.2 下载Zookeeper
-
-可以通过下列链接手动下载：
-
-http://ftp.jaist.ac.jp/pub/apache/zookeeper/zookeeper-3.4.14/zookeeper-3.4.14.tar.gz
-
-Linux/Mac也可以通过如下命令下载：
-
-> wget http://ftp.jaist.ac.jp/pub/apache/zookeeper/zookeeper-3.4.14/zookeeper-3.4.14.tar.gz
-
-
-
-### 1.3 下载ActiveMQ
+### 1.2 下载ActiveMQ
 
 Linux/Mac也可以通过如下命令下载：
 
@@ -30,29 +18,7 @@ Linux/Mac也可以通过如下命令下载：
 
 ## 2. 启动ActiveMQ broker
 
-### 2.1 启动Zookeeper
-
-Window上直接解压zip文件。
-
-Linux/Mac上使用：
-
-> $ tar xvzf zookeeper-3.4.14.tar.gz
->
-> $ cd zookeeper-3.4.14
->
-> $ mv conf/zoo_sample.cfg  conf/zoo.cfg
->
-> $ $ ./bin/zkServer.sh start
->
-> ZooKeeper JMX enabled by default
->
-> Using config: /Users/kimmking/kk/huobidev/zookeeper-3.4.14/bin/../conf/zoo.cfg
->
-> Starting zookeeper ... STARTED
-
-出现“*Starting zookeeper ... STARTED*”就说明启动成功了。
-
-### 2.2 启动ActiveMQ
+### 2.1 启动ActiveMQ
 
 Window上直接解压zip文件。
 
